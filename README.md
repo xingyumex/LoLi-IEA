@@ -11,7 +11,7 @@ This repository contains the source code and associated materials for the paper 
 ## Test
 To test the model, follow these steps:
 
-1. Download the [weights](https://drive.google.com/file/d/1uLIrWoW6WEqQDtYNdg-Lx3tGFlYSjavU/view?usp=sharing) for the Pretrained Model.  
+1. Download the [weights](https://drive.google.com/file/d/1uLIrWoW6WEqQDtYNdg-Lx3tGFlYSjavU/view?usp=sharing) for the Pretrained Model and place them in the ./Models directory.  
 
 2. Place your images to be enhanced in the ./1_Input directory.
 
