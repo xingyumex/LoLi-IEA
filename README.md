@@ -9,6 +9,17 @@ This repository contains the source code and associated materials for the paper 
 ## Requirements
 
 ## Test
+To test the model, follow these steps:
+
+1. Download the weights for the pretrained model.
+
+2. Place your images to be enhanced in the ./1_Input directory.
+
+3. Run the code with the following command:
+
+python main.py
+
+4. The enhanced images will be saved in the ./2_Output directory.
 
 ## Citation
 If this work contributes to your research, we would appreciate it if you could cite our paper:
