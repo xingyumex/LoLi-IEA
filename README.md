@@ -8,6 +8,15 @@ This repository contains the source code and associated materials for the paper 
 
 ## Requirements
 
+1. opencv-python == 4.9.0.80
+2. scikit-image == 0.22.0
+3. numpy == 1.24.3
+4. torch == 2.3.0+cu118
+5. Pillow == 10.2.0
+6. tqdm ==  4.65.0
+7. natsort == 8.4.0
+8. torchvision == 0.18.0+cu118
+
 ## Test
 To test the model, follow these steps:
 
