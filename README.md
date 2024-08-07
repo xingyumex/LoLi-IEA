@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code and associated materials for the paper titled **LoLi-IEA: low-light image enhancement algorithm**. The aim of this research is the visual enhancement of low-light images.
+Official PyTorch implementation of [LoLi-IEA: a low-light image enhancement algorithm](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12675/1267512/LoLi-IEA-low-light-image-enhancement-algorithm/10.1117/12.2677422.short#_=_) presented at the SPIE Optical Engineering + Applications 2023 conference, San Diego, California, United States.
 
 ![LoLi_Architecture](Architecture.png)
 
