@@ -17,7 +17,8 @@ To test the model, follow these steps:
 
 3. Run the code with the following command:
 
-python main.py
+   ```bash
+   python main.py
 
 4. The enhanced images will be saved in the ./2_Output directory.
 
