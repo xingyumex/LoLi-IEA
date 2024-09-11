@@ -17,7 +17,7 @@ Official PyTorch implementation of [LoLi-IEA: a low-light image enhancement algo
 7. natsort == 8.4.0
 8. torchvision == 0.18.0+cu118
 
-## Test
+## Inference
 To test the model, follow these steps:
 
 1. Download the [weights](https://drive.google.com/file/d/1uLIrWoW6WEqQDtYNdg-Lx3tGFlYSjavU/view?usp=sharing) for the Pretrained Model and place them in the ./Models directory.  
