@@ -1,12 +1,15 @@
 # LoLi-IEA: low-light image enhancement algorithm
 
-## Overview
+[Ezequiel Perez-Zarate](https://scholar.google.com/citations?user=sNlxp40AAAAJ&hl=es&oi=sra). [Oscar Ramos-Soto](https://scholar.google.com/citations?user=EzhiQbkAAAAJ&hl=es&oi=sra), [Erick Rodríguez-Esparza](https://scholar.google.com/citations?user=f9rxCz4AAAAJ&hl=es), German Aguilar
+
+
+## 🎯 1. Overview
 
 Official PyTorch implementation of [LoLi-IEA: a low-light image enhancement algorithm](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12675/1267512/LoLi-IEA-low-light-image-enhancement-algorithm/10.1117/12.2677422.short#_=_) presented at the SPIE Optical Engineering + Applications 2023 conference, San Diego, California, United States.
 
 ![LoLi_Architecture](Architecture.png)
 
-## Requirements
+## 🛠️ 2. Requirements
 
 1. opencv-python == 4.9.0.80
 2. scikit-image == 0.22.0
@@ -17,7 +20,7 @@ Official PyTorch implementation of [LoLi-IEA: a low-light image enhancement algo
 7. natsort == 8.4.0
 8. torchvision == 0.18.0+cu118
 
-## Inference
+## 🧪 3. Inference
 To test the model, follow these steps:
 
 1. Download the [weights](https://drive.google.com/file/d/1uLIrWoW6WEqQDtYNdg-Lx3tGFlYSjavU/view?usp=sharing) for the Pretrained Model and place them in the ./Models directory.  
@@ -31,7 +34,7 @@ To test the model, follow these steps:
 
 4. The enhanced images will be saved in the ./2_Output directory.
 
-## Citation
+## 📄 Citation
 If this work contributes to your research, we would appreciate it if you could cite our paper:
 
 ```bibtex
