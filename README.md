@@ -1,4 +1,4 @@
-# LoLi-IEA: low-light image enhancement algorithm
+# [SPIE AML 2023] LoLi-IEA: low-light image enhancement algorithm
 
 [Ezequiel Perez-Zarate](https://scholar.google.com/citations?user=sNlxp40AAAAJ&hl=es&oi=sra). [Oscar Ramos-Soto](https://scholar.google.com/citations?user=EzhiQbkAAAAJ&hl=es&oi=sra), [Erick Rodríguez-Esparza](https://scholar.google.com/citations?user=f9rxCz4AAAAJ&hl=es), German Aguilar
 
