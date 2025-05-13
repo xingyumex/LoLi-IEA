@@ -23,7 +23,9 @@ Official PyTorch implementation of [LoLi-IEA: a low-light image enhancement algo
 ## 🧪 3. Inference
 To test the model, follow these steps:
 
-1. Download the [weights](https://drive.google.com/file/d/1uLIrWoW6WEqQDtYNdg-Lx3tGFlYSjavU/view?usp=sharing) for the Pretrained Model and place them in the ./Models directory.  
+
+1. Download the pretrained weights from either of the following links, and place them in the `./Models` directory:  
+   - [Google Drive](https://drive.google.com/file/d/1uLIrWoW6WEqQDtYNdg-Lx3tGFlYSjavU/view?usp=sharing)   
 
 2. Place your images to be enhanced in the ./1_Input directory.
 
