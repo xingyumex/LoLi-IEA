@@ -25,7 +25,8 @@ To test the model, follow these steps:
 
 
 1. Download the pretrained weights from either of the following links, and place them in the `./Models` directory:  
-   - [Google Drive](https://drive.google.com/file/d/1uLIrWoW6WEqQDtYNdg-Lx3tGFlYSjavU/view?usp=sharing)   
+   - [Google Drive](https://drive.google.com/file/d/1uLIrWoW6WEqQDtYNdg-Lx3tGFlYSjavU/view?usp=sharing)
+   - [OneDrive](https://1drv.ms/u/c/e007fd74948072f0/EUg-TElJHGhAku_chLfEOLwBEkac_B7HQIu9-JpEW4SPJQ?e=FAOE5K)
 
 2. Place your images to be enhanced in the ./1_Input directory.
 
